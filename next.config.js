@@ -11,23 +11,7 @@ const nextConfig = {
   // skipTrailingSlashRedirect: true,
  
   // Optional: Change the output directory `out` -> `dist`
-  // distDir: 'dist',
+  distDir: 'dist',
 }
  
 module.exports = nextConfig
-
-/*
-* @type {import('next').NextConfig} 
-
-const env = process.env.NODE_ENV;
-
-const nextConfig =
-  env === "development"
-    ? {}
-    : {
-        output: "export",
-        assetPrefix: "https://www.maazgheewale.com/",
-      };
-
-module.exports = nextConfig;
-*/
