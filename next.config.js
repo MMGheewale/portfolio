@@ -13,6 +13,7 @@ const nextConfig =
         output: "export",
         distDir: "dist",
         assetPrefix: "https://mmgheewale.github.io/portfolio/",
+        basePath: '/portfolio',
       };
 
 module.exports = nextConfig;
