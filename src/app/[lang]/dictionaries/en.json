@@ -1,0 +1,130 @@
+{
+  "tabsName": {
+    "skills": "Skills",
+    "education": "Education",
+    "experience": "Experience",
+    "projects": "Projects"
+  },
+  "title": "Software Developer",
+  "tech-skills": [
+    "ReactJS",
+    "JavaScript",
+    "Bootstrap",
+    "HTML",
+    "CSS",
+    "WordPress",
+    "PHP",
+    "Java",
+    "C",
+    "Python",
+    "REST",
+    "XML",
+    "JSON",
+    "MySQL",
+    "Linux",
+    "MongoDB"
+  ],
+  "computer-skills": [
+    "VS Code",
+    "FileZilla",
+    "Figma",
+    "Git",
+    "MS Office",
+    "Jira",
+    "XAMPP",
+    "Photoshop"
+  ],
+  "soft-skills": [
+    "Project Management",
+    "Teamwork",
+    "Problem Solving",
+    "Analytical Skills",
+    "Adaptability",
+    "Communication"
+  ],
+  "about": "I'm Maaz Gheewale, a dedicated Software Developer with a strong background in web development and a passion for creating innovative solutions. Currently pursuing a Master's in Web Engineering at Technische Universität Chemnitz, I have over 2 years of professional experience in developing web applications for diverse clients. My expertise spans across various technologies including React.js, PHP, and WordPress, complemented by proficiency in project management tools like Jira.",
+  "education": [
+    {
+      "school": "Technische Universität Chemnitz",
+      "degree": "Master of Science",
+      "field": "Web Engineering",
+      "start": "2021",
+      "end": "2024"
+    },
+    {
+      "school": "KLS Gogte Institute of Technology",
+      "degree": "Bachelor's degree",
+      "field": "Computer Science Engineering",
+      "start": "2018",
+      "end": "2021"
+    },
+    {
+      "school": "RN Shetty Polytechnic",
+      "degree": "Diploma",
+      "field": "Computer Science Engineering",
+      "start": "2015",
+      "end": "2021"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Zeel Code Labs",
+      "position": "Software Developer",
+      "start": "April 2022",
+      "end": "September 2023",
+      "tech": [
+        "React.js",
+        "PHP",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "WordPress",
+        "Bootstrap",
+        "Jira"
+      ]
+    },
+    {
+      "company": "AspireNxt",
+      "position": "Intern R&D Software Developer",
+      "start": "April 2021",
+      "end": "September 2021",
+      "tech": ["NLP", "SQL", "Research"]
+    },
+    {
+      "company": "M/S Code Villa",
+      "position": "Intern Software Developer",
+      "start": "August 2017",
+      "end": "August 2018",
+      "tech": ["PHP", "MySQL", "HTML", "CSS", "JavaScript", "Bootstrap"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "E-Patient Care System",
+      "tech": ["HTML", "CSS", "Figma", "Bootstrap", "React.js", "JavaScript"],
+      "desc": [
+        "Developed a comprehensive web and mobile patient management system.",
+        "Enabled appointment bookings, cancellations, and live chat consultations.",
+        "Integrated features for lab results, medical prescriptions, and a news section."
+      ]
+    },
+    {
+      "name": "File Sharing & Copyright Issues",
+      "tech": ["HTML", "CSS", "Figma", "Bootstrap", "PHP", "JavaScript", "MySQL", "APIs"],
+      "desc": [
+        "Developed Secure Share: A web application for secure file sharing and copyright protection.",
+        "Implemented controlled access with file upload, sharing, and access request features.",
+        "Applied user restrictions and security measures including hashed blob storage."
+      ]
+    },
+    {
+      "name": "Cardless Transaction",
+      "tech": ["Java Swing", "HTML", "CSS", "PHP", "JavaScript", "Bootstrap", "MySQL", "NetBeans IDE"],
+      "desc": [
+        "Developed a Cardless Cash Withdrawal System using mobile number and OTP-based transactions.",
+        "Designed security features including OTPs and account lockouts.",
+        "Collaborated on a multidisciplinary team for seamless money transfer and withdrawal processes."
+      ]
+    }
+  ]
+}

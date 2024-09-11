@@ -1,0 +1,130 @@
+{
+  "tabsName": {
+    "skills": "Fähigkeiten",
+    "education": "Ausbildung",
+    "experience": "Erfahrung",
+    "projects": "Projekte"
+  },
+  "title": "Softwareentwickler",
+  "tech-skills": [
+    "ReactJS",
+    "JavaScript",
+    "Bootstrap",
+    "HTML",
+    "CSS",
+    "WordPress",
+    "PHP",
+    "Java",
+    "C",
+    "Python",
+    "REST",
+    "XML",
+    "JSON",
+    "MySQL",
+    "Linux",
+    "MongoDB"
+  ],
+  "computer-skills": [
+    "VS Code",
+    "FileZilla",
+    "Figma",
+    "Git",
+    "MS Office",
+    "Jira",
+    "XAMPP",
+    "Photoshop"
+  ],
+  "soft-skills": [
+    "Projektmanagement",
+    "Teamarbeit",
+    "Problemlösung",
+    "Analytische Fähigkeiten",
+    "Anpassungsfähigkeit",
+    "Kommunikation"
+  ],
+  "about": "Ich bin ein engagierter Softwareentwickler mit einem starken Hintergrund in der Webentwicklung und einer Leidenschaft für die Entwicklung innovativer Lösungen. Derzeit absolviere ich einen Master in Web Engineering an der Technischen Universität Chemnitz und verfüge über mehr als 2 Jahre Berufserfahrung in der Entwicklung von Webanwendungen für verschiedene Kunden. Meine Expertise umfasst verschiedene Technologien wie React.js, PHP und WordPress, ergänzt durch Kenntnisse in Projektmanagement-Tools wie Jira.",
+  "education": [
+    {
+      "school": "Technische Universität Chemnitz",
+      "degree": "Master of Science",
+      "field": "Web Engineering",
+      "start": "2021",
+      "end": "2024"
+    },
+    {
+      "school": "KLS Gogte Institute of Technology",
+      "degree": "Bachelor",
+      "field": "Informatik",
+      "start": "2018",
+      "end": "2021"
+    },
+    {
+      "school": "RN Shetty Polytechnic",
+      "degree": "Diploma",
+      "field": "Informatik",
+      "start": "2015",
+      "end": "2021"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Zeel Code Labs",
+      "position": "Softwareentwickler",
+      "start": "April 2022",
+      "end": "September 2023",
+      "tech": [
+        "React.js",
+        "PHP",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "WordPress",
+        "Bootstrap",
+        "Jira"
+      ]
+    },
+    {
+      "company": "AspireNxt",
+      "position": "Praktikant R&D Softwareentwickler",
+      "start": "April 2021",
+      "end": "September 2021",
+      "tech": ["NLP", "SQL", "Forschung"]
+    },
+    {
+      "company": "M/S Code Villa",
+      "position": "Praktikant Softwareentwickler",
+      "start": "August 2017",
+      "end": "August 2018",
+      "tech": ["PHP", "MySQL", "HTML", "CSS", "JavaScript", "Bootstrap"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "E-Patient Care System",
+      "tech": ["HTML", "CSS", "Figma", "Bootstrap", "React.js", "JavaScript"],
+      "desc": [
+        "Entwicklung eines umfassenden Web- und Mobilsystems zur Patientenverwaltung.",
+        "Ermöglichte Terminbuchungen, Stornierungen und Live-Chat-Konsultationen.",
+        "Integration von Funktionen für Laborergebnisse, medizinische Verschreibungen und einen Nachrichtenbereich."
+      ]
+    },
+    {
+      "name": "Dateifreigabe & Urheberrechtsfragen",
+      "tech": ["HTML", "CSS", "Figma", "Bootstrap", "PHP", "JavaScript", "MySQL", "APIs"],
+      "desc": [
+        "Entwicklung von Secure Share: Eine Webanwendung für sichere Dateifreigabe und Urheberrechtsschutz.",
+        "Implementierung von kontrolliertem Zugriff mit Funktionen zum Hochladen, Teilen und Anfordern von Dateien.",
+        "Anwendung von Benutzerbeschränkungen und Sicherheitsmaßnahmen einschließlich gehashter Blob-Speicherung."
+      ]
+    },
+    {
+      "name": "Kartenlose Transaktion",
+      "tech": ["Java Swing", "HTML", "CSS", "PHP", "JavaScript", "Bootstrap", "MySQL", "NetBeans IDE"],
+      "desc": [
+        "Entwicklung eines kartenlosen Bargeldabhebungssystems mit Transaktionen basierend auf Mobilnummer und OTP.",
+        "Entwicklung von Sicherheitsfunktionen einschließlich OTPs und Kontosperrungen.",
+        "Zusammenarbeit in einem interdisziplinären Team für nahtlose Geldtransfer- und Abhebungsprozesse."
+      ]
+    }
+  ]
+}
