@@ -1,21 +1,18 @@
 /**
- * @type {import('next').NextConfig}
+ *  distDir: "dist",
+ https://mmgheewale.github.io/portfolio/
  */
-const nextConfig = {
-  output: 'export',
-  distDir: "dist",
-  assetPrefix: "https://mmgheewale.github.io/portfolio/",
-  trailingSlash: true, // Ensure paths have trailing slashes like `/en/`
+/** @type {import('next').NextConfig} */
 
-  async redirects() {
-    return [
-      {
-        source: '/',
-        destination: '/en.html',
-        permanent: true,
-      },
-    ]
-  },
-}
+const env = process.env.NODE_ENV;
+
+const nextConfig =
+  env === "development"
+    ? {}
+    : {
+        output: "export",
+        distDir: "dist",
+        assetPrefix: "https://mmgheewale.github.io/portfolio/",
+      };
 
 module.exports = nextConfig;
