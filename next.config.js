@@ -3,8 +3,7 @@
  */
 const nextConfig = {
   output: 'export',
-  basePath: '/portfolio/en',
-  assetPrefix: 'https://mmgheewale.github.io/portfolio/en/',
+  assetPrefix: 'https://mmgheewale.github.io/portfolio/',
   // Optional: Change links `/me` -> `/me/` and emit `/me.html` -> `/me/index.html`
   // trailingSlash: true,
  
