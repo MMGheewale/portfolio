@@ -4,10 +4,10 @@
 const nextConfig = {
   output: 'export',
   distDir: "dist",
-  assetPrefix: "https://mmgheewale.github.io/portfolio/en",
+  //assetPrefix: "https://mmgheewale.github.io/portfolio/en",
  
   // Optional: Change links `/me` -> `/me/` and emit `/me.html` -> `/me/index.html`
-   trailingSlash: true
+   //trailingSlash: true
  
   // Optional: Prevent automatic `/me` -> `/me/`, instead preserve `href`
   // skipTrailingSlashRedirect: true,
