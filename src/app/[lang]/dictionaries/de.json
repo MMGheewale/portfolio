@@ -45,21 +45,21 @@
   "about": "Ich bin ein engagierter Softwareentwickler mit einem starken Hintergrund in der Webentwicklung und einer Leidenschaft für die Entwicklung innovativer Lösungen. Derzeit absolviere ich einen Master in Web Engineering an der Technischen Universität Chemnitz und verfüge über mehr als 2 Jahre Berufserfahrung in der Entwicklung von Webanwendungen für verschiedene Kunden. Meine Expertise umfasst verschiedene Technologien wie React.js, PHP und WordPress, ergänzt durch Kenntnisse in Projektmanagement-Tools wie Jira.",
   "education": [
     {
-      "school": "Technische Universität Chemnitz",
+      "school": "Technische Universität Chemnitz - Chemnitz, Deutschland",
       "degree": "Master of Science",
       "field": "Web Engineering",
       "start": "2021",
       "end": "2024"
     },
     {
-      "school": "KLS Gogte Institute of Technology",
+      "school": "KLS Gogte Institute of Technology - Belgaum, Indien",
       "degree": "Bachelor",
       "field": "Informatik",
       "start": "2018",
       "end": "2021"
     },
     {
-      "school": "RN Shetty Polytechnic",
+      "school": "RN Shetty Polytechnic - Belgaum, Indien",
       "degree": "Diploma",
       "field": "Informatik",
       "start": "2015",
@@ -68,7 +68,7 @@
   ],
   "experience": [
     {
-      "company": "Get2Germany",
+      "company": "Get2Germany - Berlin, Deutschland",
       "position": "Frontend Entwickler",
       "start": "August 2024",
       "end": "Derzeit",
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "company": "Zeel Code Labs",
+      "company": "Zeel Code Labs - Belgaum, Indien",
       "position": "Softwareentwickler",
       "start": "April 2022",
       "end": "September 2023",
@@ -95,14 +95,14 @@
       ]
     },
     {
-      "company": "AspireNxt",
+      "company": "AspireNxt - Bengaluru, Indien",
       "position": "Praktikant R&D Softwareentwickler",
       "start": "April 2021",
       "end": "September 2021",
       "tech": ["NLP", "SQL", "Forschung"]
     },
     {
-      "company": "M/S Code Villa",
+      "company": "M/S Code Villa - Belgaum, Indien",
       "position": "Praktikant Softwareentwickler",
       "start": "August 2017",
       "end": "August 2018",
