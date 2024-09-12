@@ -43,7 +43,7 @@
     "Kommunikation"
   ],
   "about": "Ich bin ein engagierter Softwareentwickler mit einem starken Hintergrund in der Webentwicklung und einer Leidenschaft für die Entwicklung innovativer Lösungen. Derzeit absolviere ich einen Master in Web Engineering an der Technischen Universität Chemnitz und verfüge über mehr als 2 Jahre Berufserfahrung in der Entwicklung von Webanwendungen für verschiedene Kunden. Meine Expertise umfasst verschiedene Technologien wie React.js, PHP und WordPress, ergänzt durch Kenntnisse in Projektmanagement-Tools wie Jira.",
-  "Education": [
+  "education": [
     {
       "school": "Technische Universität Chemnitz",
       "degree": "Master of Science",
