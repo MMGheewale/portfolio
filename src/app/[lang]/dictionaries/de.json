@@ -43,7 +43,7 @@
     "Kommunikation"
   ],
   "about": "Ich bin ein engagierter Softwareentwickler mit einem starken Hintergrund in der Webentwicklung und einer Leidenschaft für die Entwicklung innovativer Lösungen. Derzeit absolviere ich einen Master in Web Engineering an der Technischen Universität Chemnitz und verfüge über mehr als 2 Jahre Berufserfahrung in der Entwicklung von Webanwendungen für verschiedene Kunden. Meine Expertise umfasst verschiedene Technologien wie React.js, PHP und WordPress, ergänzt durch Kenntnisse in Projektmanagement-Tools wie Jira.",
-  "education": [
+  "Education": [
     {
       "school": "Technische Universität Chemnitz",
       "degree": "Master of Science",
@@ -67,6 +67,18 @@
     }
   ],
   "experience": [
+{
+  "Firma": "Get2Germany",
+  "Position": "Frontend Entwickler",
+  "start": "August 2024",
+  "end": "Derzeit",
+  "tech": [
+    "NextJS",
+    "React.js",
+    "UI/UX Figma"
+  ]
+},
+
     {
       "company": "Zeel Code Labs",
       "position": "Softwareentwickler",
