@@ -67,6 +67,17 @@
     }
   ],
   "experience": [
+        {
+      "company": "Get2Germany",
+      "position": "Frontend Developer",
+      "start": "August 2024",
+      "end": "Present",
+      "tech": [
+        "NextJS",
+        "React.js",
+        "UI/UX Figma",
+      ]
+    },
     {
       "company": "Zeel Code Labs",
       "position": "Software Developer",
